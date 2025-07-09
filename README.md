@@ -1,2 +1,1 @@
-# CH.EN.U4CS22018-19CSE401-Lex-Programming
-Lex Programs for course lab
+This repository contains the lex programs written by G. Vikram Nethesh, Roll No: CH.EN.U4CSE22018 for 19CSE401 Compiler Design course.
